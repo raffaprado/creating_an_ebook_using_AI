@@ -26,16 +26,7 @@ Para gerar e estruturar este conteúdo com a ajuda da IA, os seguintes prompts f
 
 ---
 
-## 📁 Estrutura do Repositório
 
-```
-📂 python-do-zero/
-├── ebook/
-│   └── python_do_zero.md       # Arquivo com o conteúdo completo do eBook
-├── README.md                   # Este arquivo
-```
-
----
 
 ## 🚀 Como Usar
 
@@ -58,8 +49,4 @@ Sugestões, correções e melhorias são bem-vindas! Sinta-se à vontade para ab
 
 ---
 
-## 🧠 Licença
-
-Este projeto está licenciado sob a licença [MIT](LICENSE).
-
----
+Esse projeto tem como intuito o aprendizado sobre engenharia de prompt no curso da DIO
